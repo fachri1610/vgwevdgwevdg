@@ -8,7 +8,7 @@ tugas asj tanggal 28/08/2024
 Javascript, HTML, CSS...
 
 
-## Other Common Github Profile Sections
+## APA SAJA 
 👩‍💻 I'm currently working on TUGAS
 
 🧠 I'm currently learning TUGAS
